@@ -7,13 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LUCIFERsDen26?tab=repositories](https://github.com/LUCIFERsDen26?tab=repositories)
 
-- 📝 I regularly write articles on [Updating soon](Updating soon)
+- 📝 I regularly write articles on [Updating soon]
 
 - 💬 Ask me about **Python,Machine Learning,Robotics,Mechatronics**
 
 - 📫 How to reach me **bhushanrajendrashelar25@gmail.com**
 
-- 📄 Know about my experiences [Updating soon](Updating soon)
+- 📄 Know about my experiences [Updating soon]
 
 - ⚡ Fun fact **3671 Whispymound Drive(Gta 5) my dream home.**
 
