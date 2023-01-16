@@ -20,7 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bhushan shelar" target="blank"><img align="center" src="https://img.icons8.com/color/512/linkedin-2.png" alt="bhushan shelar" height="35" width="40" /></a>
-<a href="https://linkedin.com/in/bhushan shelar" target="blank"><img align="center" src="<a href="https://instagram.com/bhushan shelar" target="blank"><img align="center" src="https://img.icons8.com/color/512/linkedin-2.png" alt="bhushan shelar" height="35" width="40" /></a>" alt="bhushan shelar" height="35" width="40" /></a>
+  
+<a href="https://linkedin.com/in/bhushan shelar" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266__340.jpg" alt="bhushan shelar" height="35" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
