@@ -132,4 +132,20 @@
 		}, 1000);
 	});
 
+	/*----------------------------------------
+		Isotope Masonry
+	------------------------------------------*/
+
+	$(document).ready(function() {
+	    $('#sendEmail').click(function() {
+	        $('#contact-form').attr('action',
+	                       'mailto:bhushanrajendrashelar25@gmail.com?subject=' +
+	                       $('#sendersSubject').val() + '&message=' + " Hi my name is "+$('#sendersName').val() +"\n\n" +$('#message').val());
+	        $('#sendEmail').submit();
+	    });
+	});
+
+
+
 })(jQuery);
+
