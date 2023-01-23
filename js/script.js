@@ -140,7 +140,7 @@
 	    $('#sendEmail').click(function() {
 	        $('#contact-form').attr('action',
 	                       'mailto:bhushanrajendrashelar25@gmail.com?subject=' +
-	                       $('#sendersSubject').val() + '&message=' + " Hi my name is "+$('#sendersName').val() +"\n\n" +$('#message').val());
+	                       $('#sendersSubject').val() + '&body=' + " Hi my name is "+$('#sendersName').val() +"\n\n" +$('#message').val());
 	        $('#sendEmail').submit();
 	    });
 	});
