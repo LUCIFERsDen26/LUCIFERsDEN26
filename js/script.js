@@ -138,9 +138,11 @@
 	function make_mailto_link(){
   		var subject = $('#sendersSubject').val();
   		var message = $('#message').val();
-  		var body = "%20Hi%20my%20name%20is%20"+$('#sendersName').val()+"\n\n"+message.replace(/ /g, "%20");
+  		var body = "%20Hi%20my%20name%20is%20"+$('#sendersName').val()+"%2C%0A"+message.replace(/ /g, "%20");
   		var mailto_link = '?subject='+subject+'&body='+body;
+  		console.log(mailto_link)
   		return mailto_link
+
   	}
 
 	$(document).ready(function() {
